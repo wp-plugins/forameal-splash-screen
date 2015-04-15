@@ -1,6 +1,6 @@
-=== Mail Subscribe List ===
+=== Forameal Splash Screen ===
 Contributors: Forameal Splash Screen
-Donate link: 
+Donate link: http://www.susheelonline.com
 Tags: Splash Screen , contact-form-7 in splash screen , email subscribers form in splash screen;
 Requires at least: 3.0
 Tested up to: 3.5.2
@@ -17,16 +17,8 @@ This is a **simple plugin** that allows web site developer to show a splash scre
 You can show any thing like forms from contact-form-7 , formiddable forms , news subscribers form or any thing like christmas wishing.
 
 In simple we can say it quite easy .
-
-
-Like this plugin? **Please follow me on Twitter and Facebook**
-
-**Twitter** - https://twitter.com/forameal
-
-**Facebook** - https://www.facebook.com/pages/forameal2020
-
  
-
+Please add me in skype gcsplinda or whatsapp 9559190379 [ india] for any kind of support.
 == Installation ==
 
 **We try our hardest to ensure that our plugins are secure and completely bug-free, by using this plugin you acknowledge and accept that we are not, and will not be held responsible for any damages, loss, costs or expenses arising from the use of our plugins.**
