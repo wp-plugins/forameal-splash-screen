@@ -34,7 +34,7 @@ function forameal_splash_screen()
     </div>
 	</div>
   
-<script type='text/javascript' src='<?php echo plugins_url(); ?>/forameal_splash_screen/CoverPop.min.js?ver=3.9.2'></script>
+<script type='text/javascript' src='<?php echo plugins_url(); ?>/forameal-splash-screen/CoverPop.min.js?ver=3.9.2'></script>
 <?php
 
 }
@@ -46,7 +46,7 @@ function forameal_splash_screen_support_file_method() {
 
 	
 	
-	wp_enqueue_style( 'forameal_splash', plugins_url()."/forameal_splash_screen/CoverPop.css" );
+	wp_enqueue_style( 'forameal_splash', plugins_url()."/forameal-splash-screen/CoverPop.css" );
 	
 	
 }

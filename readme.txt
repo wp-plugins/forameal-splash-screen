@@ -1,5 +1,5 @@
 === Forameal Splash Screen ===
-Contributors: Forameal Splash Screen
+Contributors: susheelhbti
 Donate link: http://www.susheelonline.com
 Tags: Splash Screen , contact-form-7 in splash screen , email subscribers form in splash screen;
 Requires at least: 3.0
